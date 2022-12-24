@@ -6,6 +6,8 @@ public class CourseDevops {
 		
 		
 		System.out.println("Hello World");
+		
+		System.out.print("hello sriram");
 
 	}
 
