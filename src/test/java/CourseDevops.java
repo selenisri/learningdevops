@@ -13,8 +13,7 @@ public class CourseDevops {
 		revert4
 		revert 5
 		
-		New
+		ed
 
-	}
 
 }
